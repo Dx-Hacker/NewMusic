@@ -23,8 +23,8 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/BikashHalderNew/Bgtplayer")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "bikash")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BikashGadgetsTech")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Bgt_Chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NeoUpdatess")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/FRIENDS2FAMILY_00")
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "180"))
 QUEUE_LIMIT = int(getenv("QUEUE_LIMIT", "150"))
@@ -71,10 +71,10 @@ clean = {}
 autoclean = []
 ############################
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/62262805b1c434251fb7d.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://te.legra.ph/file/3127b3484676bd2254e97.jpg")
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/62262805b1c434251fb7d.jpg.jpg"
 GLOBAL_IMG_URL = "https://te.legra.ph/file/2e2741f5dfe9f62eed91d.png"
 STATS_IMG_URL = "https://te.legra.ph/file/2be94fc76030833b51a78.png"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/d68f9ff85714d4dbc6069.png"
