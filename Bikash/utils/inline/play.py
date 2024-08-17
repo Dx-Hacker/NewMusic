@@ -136,11 +136,11 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [           
             InlineKeyboardButton(
-                text="YouTube", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="YouTube", url=f"https://t.me/FRIENDS2FAMILY_00"
             ),
             InlineKeyboardButton(
                 text="Maintainer",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/Dx_Coder",
             )
         ],
         [
@@ -178,11 +178,11 @@ def stream_markup(_, videoid, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="YouTube", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="YouTube", url=f"https://t.me/FRIENDS2FAMILY_00"
             ),
             InlineKeyboardButton(
                 text="Mainatiner",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/Dx_Coder",
             )
         ],
         [
@@ -220,11 +220,11 @@ def telegram_markup(_, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="YouTube", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="YouTube", url=f"https://t.me/FRIENDS2FAMILY_00"
             ),
             InlineKeyboardButton(
                 text="Maintainer",
-                url=f"https://t.me/bikashbikash",
+                url=f"https://t.me/Dx_Coder",
             )
         ],
         [
